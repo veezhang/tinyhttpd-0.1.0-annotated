@@ -1,0 +1,6 @@
+tinyhttpd注释
+
+tinyhttpd 是一个不到 500 行的超轻量型 Http Server
+
+源码来自
+https://nchc.dl.sourceforge.net/project/tinyhttpd/tinyhttpd%20source/tinyhttpd%200.1.0/tinyhttpd-0.1.0.tar.gz
